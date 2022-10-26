@@ -3,6 +3,9 @@
 ## Sonarqube install on centos 7
 ## Please run this as user vagrant
 # here i am just trying to push to github
+
+#stil her creating my branch`
+
 user_name=`whoami`
 
 
